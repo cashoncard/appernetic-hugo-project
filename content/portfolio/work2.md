@@ -3,7 +3,7 @@ date = "2016-11-05T19:41:01+05:30"
 title = "Exotic birds"
 draft = false
 image = "https://player.vimeo.com/video/258339646"
-showonlyimage = true
+showonlyimage = false
 weight = 2
 aspectratio = "4by3"
 +++
