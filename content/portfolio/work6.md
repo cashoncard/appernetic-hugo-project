@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "http://www.youtube.com/embed/TQl_Sv3LztQ"
+image = "https://www.youtube.com/embed/TQl_Sv3LztQ"
 date = "2016-11-05T19:56:17+05:30"
 title = "Name of the work 6"
 showonlyimage = false
