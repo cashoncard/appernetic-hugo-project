@@ -1,11 +1,13 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Name of the work 2"
+title = "Exotic birds"
 draft = false
-image = "http://www.youtube.com/embed/TQl_Sv3LztQ"
+image = "https://player.vimeo.com/video/258339646"
 showonlyimage = false
-weight = 1
+weight = 2
+aspectratio = "4by3"
 +++
+
 
 When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
 <!--more-->

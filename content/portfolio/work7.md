@@ -1,5 +1,5 @@
 +++
-image = "http://www.youtube.com/embed/TQl_Sv3LztQ"
+image = "https://www.youtube.com/embed/TQl_Sv3LztQ"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "Name of the work 7"

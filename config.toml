@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://cashoncard.github.io/"
 title = "Retro Film"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
