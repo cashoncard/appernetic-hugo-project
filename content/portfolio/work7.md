@@ -1,5 +1,5 @@
 +++
-image = "https://vimeo.com/260652680"
+image = "https://player.vimeo.com/video/260652680"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "När lantmätaren kom till byn"
