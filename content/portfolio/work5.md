@@ -1,5 +1,5 @@
 +++
-image = "https://vimeo.com/260656698"
+image = "https://player.vimeo.com/video/260656698"
 showonlyimage = false
 draft = false
 date = "2016-11-05T19:53:42+05:30"
