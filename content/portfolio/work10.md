@@ -1,7 +1,7 @@
 +++
 draft = false
-image = "https://www.youtube.com/embed/TQl_Sv3LztQ"
-showonlyimage = true
+image = "https://vimeo.com/260650148"
+showonlyimage = false
 date = "2016-11-05T20:22:08+05:30"
 title = "När skolan kom till byn"
 weight = 10
