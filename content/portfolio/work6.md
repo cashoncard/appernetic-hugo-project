@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "https://www.youtube.com/embed/TQl_Sv3LztQ"
+image = "https://vimeo.com/260656340"
 date = "2016-11-05T19:56:17+05:30"
 title = "När sjukdomar kom till byn"
 showonlyimage = false
