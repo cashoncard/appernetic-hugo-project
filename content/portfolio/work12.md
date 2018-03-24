@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "https://vimeo.com/259650590"
+image = "https://player.vimeo.com/video/259650590"
 date = "2016-11-05T18:25:22+05:30"
 title = "Nyheter i byn"
 weight = 1
