@@ -8,4 +8,5 @@ weight = 6
 +++
 Till filmerna finns separat lärar och elev-handledningar som gör att dessa passar bra i antingen individuellt arbete eller för grupparbete. Manus, regi och produktion: Nils och Elisabet Håkanson Sv/v Speltid: 16 min. Medverkande: Stockholmare och värmlänningar Copyright…
 <!--more-->
+
 Till filmerna finns separat lärar och elev-handledningar som gör att dessa passar bra i antingen individuellt arbete eller för grupparbete. Manus, regi och produktion: Nils och Elisabet Håkanson Sv/v Speltid: 16 min. Medverkande: Stockholmare och värmlänningar Copyright…
