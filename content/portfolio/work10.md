@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "https://vimeo.com/260650148"
+image = "https://player.vimeo.com/video/260650148"
 showonlyimage = false
 date = "2016-11-05T20:22:08+05:30"
 title = "När skolan kom till byn"
