@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "https://vimeo.com/260657376"
+image = "https://player.vimeo.com/video/260657376"
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
 title = "Fattigtider"
