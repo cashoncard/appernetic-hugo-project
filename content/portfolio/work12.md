@@ -8,5 +8,6 @@ weight = 1
 aspectratio = "16by9"
 +++
 FÄRG LJUD	SPELTID 16 minuter Användningsområde: Grundskolans mellan- och högstadium Gymnasieskolan,VUX Ämnesområde:	Historia 1800-talet Manus, regi och produktion:	Nils och Elisabet Håkanson DISTRIBUTION: Gamla Tider Förlag – en enhet inom FXRealm Studios…
-<!-- more -->
+<!--more-->
+
 FÄRG LJUD	SPELTID 16 minuter Användningsområde: Grundskolans mellan- och högstadium Gymnasieskolan,VUX Ämnesområde:	Historia 1800-talet Manus, regi och produktion:	Nils och Elisabet Håkanson DISTRIBUTION: Gamla Tider Förlag – en enhet inom FXRealm Studios…
