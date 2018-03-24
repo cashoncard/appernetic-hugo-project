@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "https://player.vimeo.com/video/260649410"
-showonlyimage = true
+showonlyimage = false
 date = "2016-11-05T20:23:59+05:30"
 title = "Svedjefolk"
 weight = 11
