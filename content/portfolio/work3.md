@@ -3,7 +3,7 @@ image = "https://player.vimeo.com/video/258338729"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Websummit Lissabon-nov -17"
-draft = false
+draft = true
 weight = 3
 aspectratio = "16by9"
 +++
