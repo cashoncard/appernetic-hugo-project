@@ -1,7 +1,7 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
 title = "Exotic birds"
-draft = false
+draft = true
 image = "https://player.vimeo.com/video/258339646"
 showonlyimage = false
 weight = 2
