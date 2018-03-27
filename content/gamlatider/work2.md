@@ -6,6 +6,7 @@ image = "https://player.vimeo.com/video/258339646"
 showonlyimage = false
 weight = 2
 aspectratio = "4by3"
+type = "video"
 +++
 When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
 <!--more-->
