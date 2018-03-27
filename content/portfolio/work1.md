@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-draft = true
+draft = false
 image = "https://player.vimeo.com/video/258351606"
 date = "2016-11-05T18:25:22+05:30"
 title = "Rolling Stones @ Friends Arena"
