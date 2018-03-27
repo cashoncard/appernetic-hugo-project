@@ -13,6 +13,7 @@
   </div>
   {{ partial "scripts.html" . }}
   <script src="{{ "upup.min.js" | absURL }}"></script>
+  <script src="{{ "upup.sw.min.js" | absURL }}"></script>
   <script>
   UpUp.start({
     {{ with .Site.Params.cacheVersion }}'cache-version': '{{ . }}',{{ end }}
