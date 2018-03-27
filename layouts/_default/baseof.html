@@ -1,12 +1,4 @@
 <!DOCTYPE html>
-<script src="//cdnjs.cloudflare.com/ajax/libs/UpUp/1.0.0/upup.min.js"></script>
-<script>
-UpUp.start({
-  {{ with .Site.Params.cacheVersion }}'cache-version': '{{ . }}',{{ end }}
-  'content-url': '/index.html'
-  {{ with .Site.Params.assets }},'assets': {{ . }} {{ end }}
-});
-</script>
 <html lang="{{ .Site.LanguageCode }}">
 <head>{{ partial "head.html" . }}</head>
 <body>
@@ -20,5 +12,13 @@ UpUp.start({
       </div>
   </div>
   {{ partial "scripts.html" . }}
+  <script src="{{ "upup.min.js" | absURL }}"></script>
+  <script>
+  UpUp.start({
+    {{ with .Site.Params.cacheVersion }}'cache-version': '{{ . }}',{{ end }}
+    'content-url': '/'
+    {{ with .Site.Params.assets }},'assets': {{ . }} {{ end }}
+  });
+  </script>
 </body>
 </html>
