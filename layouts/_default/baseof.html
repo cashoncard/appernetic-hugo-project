@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<script src="//cdnjs.cloudflare.com/ajax/libs/UpUp/1.0.0/upup.min.js"></script>
+<script>
+UpUp.start({
+  {{ with .Site.Params.cacheVersion }}'cache-version': '{{ . }}',{{ end }}
+  'content-url': '/index.html'
+  {{ with .Site.Params.assets }},'assets': {{ . }} {{ end }}
+});
+</script>
+<html lang="{{ .Site.LanguageCode }}">
+<head>{{ partial "head.html" . }}</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              {{ partial "sidebar.html" . }}
+              {{ block "main" . }}
+              {{ end }}
+          </div>
+      </div>
+  </div>
+  {{ partial "scripts.html" . }}
+</body>
+</html>
