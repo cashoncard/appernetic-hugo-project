@@ -11,4 +11,4 @@ För allmän visning i klassrum eller för grupp krävs avtal. Likaså om sekven
 Lösenord som behövs för visning sänds mot förfrågan till [RetroFilm][1]
 
 
-  [1]: contact/
+  [1]: /contact/
