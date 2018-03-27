@@ -1,4 +1,4 @@
-baseurl = "https://cashoncard.github.io/"
+baseurl = "https://retrofilm.nu/"
 title = "Retro Film"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "sv-SE"
@@ -32,7 +32,7 @@ googleAnalytics = ""
   email = "per@fxrsoft.com"
 
   # UpUp is used for offline first and cache busting. Change the cache-version number to bust the cache.
-  cacheVersion = "v16"
+  cacheVersion = "v17"
   assets = ['/img/favicon.png','/img/retrologo.png', '/img/about.jpg', '/css/style.sea.css']
   # Nav links in the side bar
   [[params.navlinks]]
