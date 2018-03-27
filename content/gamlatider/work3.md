@@ -6,6 +6,7 @@ title = "Websummit Lissabon-nov -17"
 draft = true
 weight = 3
 aspectratio = "16by9"
+type = "video"
 +++
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
 <!--more-->
