@@ -14,7 +14,10 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "I ö am a creative illustrator and graphic designer with more than 10 years of experience.",
+    "RetroFilm är till för dej som vill se historiska svenska filmer. 
+Tillhör du målgruppen som beundrar skådespelare från 1930/40-talet,
+då är Hollywod Classics och komiska stumfilmer rätt.
+",
     "Originally from Toronto, currently based in London."
   ]
   # Contact page
